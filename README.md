@@ -21,3 +21,4 @@
 7. Update the pipeline 
 8. Update the main.py
 
+## This is all about the modular coding and implementation
